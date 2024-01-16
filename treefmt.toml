@@ -1,0 +1,4 @@
+[formatter.go]
+command = "gofmt"
+includes = ["*.go"]
+options = ["-w"]
